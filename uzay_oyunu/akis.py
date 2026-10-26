@@ -62,3 +62,4 @@ def rota_sayaci(baglantilar: dict) -> typing.Callable:
         return toplam
         
     return rota_sayisi
+    
